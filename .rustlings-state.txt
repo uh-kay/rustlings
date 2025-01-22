@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-clippy3
+as_ref_mut
 
 intro1
 intro2
@@ -90,3 +90,9 @@ macros3
 macros4
 clippy1
 clippy2
+clippy3
+using_as
+from_into
+from_str
+try_from_into
+as_ref_mut
